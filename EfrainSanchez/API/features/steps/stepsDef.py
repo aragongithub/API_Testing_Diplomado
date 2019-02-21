@@ -20,3 +20,4 @@ def step_impl(context,cash):
 def step_impl(context,balance2):
     remaining = context.balance -context.extracto
     expect(remaining).to_equal(balance2)
+

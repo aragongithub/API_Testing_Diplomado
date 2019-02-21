@@ -1,0 +1,9 @@
+# tengo  de valores
+#  host: http://www.google.com.bo
+#  method: GET
+codes: 200
+# tengo bloques de valores
+app:
+  host: http://www.google.com.bo
+  method: GET
+  code: 200
